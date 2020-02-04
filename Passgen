@@ -1,0 +1,17 @@
+import random
+a = ["Castle-Kingside12", "Black-Pawn15!!", "Royal-Fork2019!", "Blue-Sky-Cloud87!", "Shortstop-349!", "Authentication19!", "Green-Airplane99", 
+"Purple-Castle23!", "Highway-Penny75", "Retriever-Golden34!", "Dollar-Average29!", "Sherwood-Forest22!", "Hotcorner789!!", "Sicilian-Defense24%",
+"Wicket-Cricket45$", "Inumeration-3142$", "Baratone-Cello$32", "Summer-Beaches&54", "Euphrates-River*70", "Blanco-Roja#21", "Curry-Turmeric$85", 
+"Freeway-Eagle&63", "Financial-Audit22", "Operating-System$32", "Question-ABC%79", "Chess-Opening4$", "Hastings-Field66%", "Battle-Sword#$", 
+"Expenditure923", "Redwood-Forest%$#", "September6524", "Wildcat-Kansas&#@", "Defense-Rook12!", "Castle-Climbers39", "Gallahad-Asunder51",
+"Purple-Polkadot$32", "Middle-Fielder715", "Crossing-Route929$%", "Apples-Oranges93", "Cilantro-Cayenne", "Cooking-Oven$34", "Cyber-Info7732!",
+"Printer-Scanner", "BBQ-Baseball425", "Sinker-Slider32", "Contract-Beige23!!", "Contact-Satellite#$", "Dollar-Coasting32", "University-Hoops1@"
+"Dynamic-Difficulty3", "Slider-Sandwich62", "Mantle-Ruth61*", "Data-Science20*", "Algorithm-#72", "Resurrect-Red92", "Gambit-Queen4", "Orange-Slices44",
+"Crystal-Water5%", "Modular-Import3", "Biopharma-4205!", "Business-MGMT2", "Coconut-Blanco", "Amarillo-9012!", "Aqua-Blue8018", "First-Lagoon83", "Red-Yellow122!",
+"Purple-Shadow43", "Raven-Black32!", "Ninety-Five95!", "Thirty-Two0232", "Jumbo-Shrimp21!", "Penguin-Artic%8", "Alligator-Green77", "Mickey-Mouse211", 
+"Donald-Duck723", "Goofy-Disney214!", "Sword-Stone523!", "Black-Noir789!", "Blue-Bayou21!!", "Red-Airplane33%", "Blue-Airplane65%", "Play-Action2022!"
+"Light-Green2%%", "Bluebird-2025!", "Stump-Town2141!", "Mount-Everest13!", "Mount-Etna8645%", "Goal-Keeper2024%", "Fiver-Diver648!", "Victor-Alpha505!",
+"Beta-Charlie505%", "Delta-Zebra58$", "Echo-Foxtrot283!", "Tango-Sierra855!", "Oscar-Yankee411!", "Bugs-Bunny5254!", "Autumn-Haze951", "Brooksy-Moose98!",
+"Queens-Gambit37!", "Light-Square56!", "Dark-Square785$", "Purple-Plum6298!", "Breezy-Flag87$", "Mount-Rushmore95%", "Yosemite-Park65%", "Six-Strings2548!",
+"Summer-Breeze1463!", "Red-Corvette85!", "Hoover-Dam2018!!", "Camden-Yards1818!"]
+print(random.choice(a))
